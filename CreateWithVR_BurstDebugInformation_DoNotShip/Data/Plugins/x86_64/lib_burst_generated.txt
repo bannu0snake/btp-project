@@ -112,8 +112,6 @@ Library: lib_burst_generated
 --compilation-defines=ENABLE_INPUT_SYSTEM
 --compilation-defines=ENABLE_LEGACY_INPUT_MANAGER
 --compilation-defines=INPUT_SYSTEM_1_1_OR_NEWER
---compilation-defines=LIH_PRESENT_V2API
---compilation-defines=LIH_PRESENT
 --compilation-defines=ANIMATION_MODULE_PRESENT
 --compilation-defines=PHYSICS2D_MODULE_PRESENT
 --compilation-defines=CSHARP_7_OR_LATER
@@ -321,8 +319,6 @@ Library: lib_burst_generated
 --compilation-defines=ENABLE_INPUT_SYSTEM
 --compilation-defines=ENABLE_LEGACY_INPUT_MANAGER
 --compilation-defines=INPUT_SYSTEM_1_1_OR_NEWER
---compilation-defines=LIH_PRESENT_V2API
---compilation-defines=LIH_PRESENT
 --compilation-defines=ANIMATION_MODULE_PRESENT
 --compilation-defines=PHYSICS2D_MODULE_PRESENT
 --compilation-defines=CSHARP_7_OR_LATER
